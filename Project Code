@@ -93,7 +93,7 @@ int make4()
  return 0;
 }
 
-int posswin(int p)
+int posswin(int p)//starting of function to check whether you put value at an empty space
 {
 // p==1 then X   p==0  then  O
  int i;
